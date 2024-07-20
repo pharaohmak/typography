@@ -1,5 +1,12 @@
-# Typography
+# Morocco Travel Journal
 
-Aoife Conleavy is a novelist who has been writing about her travels for nearly two decades. Before the launch of her new novel Tide Blade, which features the stories of real-life characters in Morocco, the author wants to spruce up her professional website. You’ll modify the typography on her site, changing the size, style, and font families, to make the page easier to read.
+This project is a travel journal entry for a fictional writer, Aoife Conleavy, documenting her travels in Morocco. The webpage includes information about Morocco, personal experiences, and captivating images.
 
-Using your understanding of typography, help Aoife Conleavy improve the readability of her site for her readers.
+## Project Overview
+
+The webpage includes the following sections:
+
+- **Header:** Navigation links to travels, fiction, and contact sections.
+- **Banner:** Displays the title and date of the journal entry.
+- **Journal:** Contains the main content, including text, quotes, and images.
+- **Footer:** Provides information about the author and her work.
